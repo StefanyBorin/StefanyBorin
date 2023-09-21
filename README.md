@@ -17,16 +17,13 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyBorin&layout=compact&langs_count=6&theme=blue-green"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanyBorin&theme=blue-green&hide_border=true"/>
 </div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+   
+### Tecnologias:
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,postgres,express,react,html,css,ts,jest")](https://skillicons.dev)
+
+### Ferramentas:
+[![My Skills](https://skillicons.dev/icons?i=git,vscode,github,figma")](https://skillicons.dev)
  
- <br>
  
   ### Contatos:
  

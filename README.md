@@ -1,9 +1,23 @@
-## Bem-Vindo (a) ao perfil da Stefany Borin 🤩😃
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=40&pause=1000&color=14DF0F&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=1000&height=80&lines=Ol%C3%A1++meu+nome+%C3%A9+Stefany!!;Sou+desenvolvedora+de+Software+Backend%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+
+```
+
+ Bem-vindo (a) ⭐
+
+! ‍desenvolvedora web backend node
+! apaixonada por tecnologia
+! maior robbie pescaria
+! amo novos desafios
+```
+
+
 <div>
   <a href="https://github.com/StefanyBorin">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StefanyBorin&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyBorin&layout=compact&langs_count=6&theme=gruvbox"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=StefanyBorin&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StefanyBorin&layout=compact&langs_count=6&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=StefanyBorin&theme=blue-green&hide_border=true"/>
 </div>
+    
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -14,12 +28,10 @@
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue nas redes abaixo!
+  ### Contatos:
  
 <div> 
   <a href="https://api.whatsapp.com/send?phone=5543996389274" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/stefany_borin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.google.com" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:stefanyborin@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/stefany-borin-dev1301/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  

@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=40&pause=1000&color=14DF0F&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=1000&height=80&lines=Ol%C3%A1++meu+nome+%C3%A9+Stefany!!;Sou+desenvolvedora+de+Software+Backend%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Chakra+Petch&size=40&pause=1000&color=14DF0F&center=falso&vCenter=verdadeiro&repeat=verdadeiro&width=1000&height=80&lines=Ol%C3%A1++meu+nome+%C3%A9+Stefany!!;Sou+desenvolvedora+de+Software+Fullstak%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
 
 ```
 

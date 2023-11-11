@@ -4,7 +4,7 @@
 
  Bem-vindo (a) ⭐
 
-! ‍desenvolvedora web backend node
+! ‍desenvolvedora de software 
 ! apaixonada por tecnologia
 ! maior robbie pescaria
 ! amo novos desafios
